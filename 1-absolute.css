@@ -4,7 +4,7 @@ header {
     left: 0%;
     right: 0%;
     top: 0%;
-    bottom: 0%;
+    /* bottom: 0%; */
     height: 10%;
 }
 
@@ -13,10 +13,10 @@ main {
     background-color: yellow;
     /* left: 0%;
     right: 100%; */
-    top: 13%;
-    bottom: 95%;
-    width: 70%;
-    height: 10%;
+    top: 12%;
+    bottom: 5%;
+    width: 66%;
+    /* height: 10%; */
 }
 
 aside {
@@ -24,10 +24,10 @@ aside {
     background-color: cyan;
     /* left: 10%; */
     right: 0%;
-    top: 13%;
-    bottom: 95%;
+    top: 12%;
+    bottom: 5%;
     width: 30%;
-    height: 25px;
+    /* height: 25px; */
 }
 
 footer {
