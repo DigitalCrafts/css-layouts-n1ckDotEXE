@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+main {
+    float: left;
+    width: 80%;
+}
+
+aside {
+    float: right;
+    width: 20%;
+}
+
+.clearfix {
+    clear: both;
+}
+
+section {
+    height: 100%
+}
